@@ -1,0 +1,8 @@
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\bin\Debug\HalilPazarlama2.exe.config
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\bin\Debug\HalilPazarlama2.exe
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\bin\Debug\HalilPazarlama2.pdb
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\obj\Debug\HalilPazarlama2.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\obj\Debug\HalilPazarlama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\obj\Debug\HalilPazarlama2.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\obj\Debug\HalilPazarlama2.exe
+C:\Users\303\source\repos\HalilPazarlama2\HalilPazarlama2\obj\Debug\HalilPazarlama2.pdb
